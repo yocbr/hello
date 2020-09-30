@@ -16,6 +16,11 @@ num_1 = int(input(""))
 print("Second number")
 num_2 = int(input(""))
 
+print("First number")
+num_1 = int(input(""))
+print("Second number")
+num_2 = int(input(""))
+
 Sum = str(num_1 + num_2)
 
 
